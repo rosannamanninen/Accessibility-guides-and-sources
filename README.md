@@ -16,6 +16,6 @@ A list of accessibility guides and sources I have found.
 
 ## [Veroniiiica with four eyes -blog](https://veroniiiica.com/)
 
-- Well documented and elaborated blog about the experiences of the author themselves. Veronica writes about learning, using assistive technologies and the web with low vision.
+- Well documented and elaborated blog about the experiences of the author themself. Veronica writes about learning, using assistive technologies and the web with low vision.
 
 
