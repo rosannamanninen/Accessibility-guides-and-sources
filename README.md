@@ -19,3 +19,6 @@ A list of accessibility guides and sources I have found.
 - Well documented and elaborated blog about the experiences of the author themself. Veronica writes about learning, using assistive technologies and the web with low vision.
 
 
+https://www.frank.computer/
+
+
