@@ -1,5 +1,5 @@
 # Accessibility-guides-and-sources
-A list of accessibility guides and sources I have found.
+A list of accessibility guides and sources!
 
 ## Swiss Foundation for technology
 
