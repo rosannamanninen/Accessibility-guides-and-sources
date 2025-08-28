@@ -47,6 +47,10 @@ A list of accessibility guides and sources!
 
 - Expert on data visualization and accessibility
 
+### [Selko Digital Blog](https://selkodigital.fi/blogi/)
+In Finnish!
+- blog posts realted to accessibility, subtopics range from testing instructions to summaries of directives
+
 
 ## Certification & Course materials
 
